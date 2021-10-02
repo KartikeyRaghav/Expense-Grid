@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "919181591160",
+    "project_id": "kartikey-expense-tracker",
+    "storage_bucket": "kartikey-expense-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919181591160:android:1aca9b49c68f6e26a9e38d",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919181591160-b3n95llk3fh1fi2lthemh061eegf2du1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expense_tracker",
+            "certificate_hash": "f17914321cc49d2e15caef7b1a3ca05c077dc86d"
+          }
+        },
+        {
+          "client_id": "919181591160-k83rhb363i2ulbn9j3cosg8agar5hakp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9el3AIx6ohM3mO1Zdo1q5w4h4q_SXBzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919181591160-k83rhb363i2ulbn9j3cosg8agar5hakp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
